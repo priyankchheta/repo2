@@ -1,1 +1,2 @@
-This is my 2nd git file.
+This is my 2nd git file
+testing pollscm.
